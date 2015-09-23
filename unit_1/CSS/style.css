@@ -1,7 +1,17 @@
-body {
-	background-color: green;
+h1 {
+	text-align: right;
+	color: #fff;
 }
 
-h1, p {
-	color: gold;
+body {
+	font-family: Helvetica, sans-serif;
+	color: #fff;
+	background: url ("http://imgur.com/eShq5kY");
+	background-size: cover;
+	text-align: right;
+}
+
+#slogan {
+	font-weight: bold;
+	color: #000;
 }
