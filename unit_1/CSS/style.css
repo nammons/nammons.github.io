@@ -4,11 +4,11 @@ h1 {
 }
 
 body {
-	font-family: Helvetica, sans-serif;
-	color: #fff;
-	background: url ("http://i.imgur.com/jvDNP0V.jpg");
+	background: url("http://i.imgur.com/jvDNP0V.jpg");
 	background-size: cover;
 	text-align: right;
+	font-family: Helvetica, sans-serif;
+	color: #fff;
 }
 
 #slogan {
