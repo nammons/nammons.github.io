@@ -11,6 +11,11 @@ body {
 	font-family: Helvetica, sans-serif;
 }
 
+#headshot {
+	width: 200px;
+	height: 200px;
+}
+
 #slogan {
 	font-weight: bold;
 	color: #000;
