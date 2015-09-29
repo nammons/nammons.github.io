@@ -1,19 +1,19 @@
 h1 {
-	text-align: right;
+	text-align: center;
 	color: #fff;
 }
 
 body {
 	text-align: right;
-	background: url("http://i.imgur.com/jvDNP0V.jpg");
+	background: #0DFF95;
 	background-size: cover;
 	color: #fff;
 	font-family: Helvetica, sans-serif;
 }
 
 #headshot {
-	width: 200px;
-	height: 200px;
+	width: 150px;
+	height: 150px;
 }
 
 #slogan {
