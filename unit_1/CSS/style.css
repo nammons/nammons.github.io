@@ -1,25 +1,93 @@
+* {
+	margin: 0;
+}
+
 h1 {
-	text-align: center;
 	color: #fff;
+	font-size: 55px;
+	font-family: Helvetica, sans-serif;
+	margin-top: 10px;
+	margin-left: 40px;
+	margin-bottom: 10px;
+}
+
+h2 {
+	font-family: Helvetica, sans-serif;
+	margin-left: 160px;
+	margin-bottom: 20px;
+}
+
+a {
+	text-decoration: none;
+	font-weight: 900;
+}
+
+header {
+	text-align: center;
 }
 
 body {
 	text-align: left;
-	background: #0DFF95;
-	color: #fff;
-	font-family: Helvetica, sans-serif;
+/*	background: #0DFF95;*/
+	color: #000;
+	font-family: Times, sans-serif;
+	font-size: 16px;
+	line-height: 1.5em;
+}
+
+p {
+	margin-left: 160px;
+/*	margin-right: 250px;*/
+/*	padding-right: 50px;*/
+	width: 600px;
+}
+
+button {
+    background-color: Transparent;
+    color: #fff;
+    background-repeat:no-repeat;
+    border: solid;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+    width: 70px;
+    height: 40px;
+}
+
+#introduction {
+	background: url("../images/NightSky.jpeg") no-repeat center center fixed;
+	background-size: cover;
+	padding-bottom: 20px;
+	padding-top: 20px;
 }
 
 #headshot {
 	width: 150px;
 	height: 150px;
+	margin-left: 60px;
+	margin-top: 10px;
+	margin-bottom: 20px;
 }
 
-#slogan {
-	font-weight: bold;
+#navigation {
+	margin-top: 30px;
+	margin-bottom: 5px;
+	word-spacing: 45px;
+	font-size: 20px;
+}
+
+#body {
+	background-color: #71B3FF;
+}
+
+#paragraph1 {
+	margin: auto;
+	width: 800px;
+	background-color: #71B3FF;
+	padding: 80px 0;
+	padding-right: 50px;
+}
+
+#talktome {
 	color: #000;
-}
-
-a {
-	text-decoration: none;
 }
